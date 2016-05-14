@@ -68,9 +68,7 @@ a:hover {
   background: url('images/spectream.jpg') center no-repeat;
   background-size: cover;
   overflow: hidden;
-  padding-top: 100px;
-  padding-right: 10px;
-  padding-left: 10px;
+  padding-top: 200px;
 } 
 
 header {
