@@ -44,7 +44,7 @@ a:hover {
 }
 
 .nav .name {
-    display: block;
+    display: flex;
     margin-right: auto;
     color: white;
 }
